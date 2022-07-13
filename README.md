@@ -1,1 +1,1 @@
-# 2D-Helicopter-OpenGL
+# 2D-Helicopter-game with OPenGL
